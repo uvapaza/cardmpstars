@@ -1,0 +1,66 @@
+# Frontend Mentor: Statistics Preview Card Component Solution
+
+## Table of Contents
+
+  - [The challenge] (# the-challenge)
+  - [Screenshot] (# screenshot)
+  - [Links] (# links)
+- [My process] (# my-process)
+  - [Built with] (# built-with)
+  - [What I learned] (# what-i-learned)
+  - [Continued development] (# continued-development)
+  - [Useful resources] (# useful-resources)
+- [Author] (# author)
+- [Acknowledgments] (# acknowledgments))
+
+### The challenge
+
+Users must be able to:
+
+- View the optimal layout based on your device's screen size
+
+### Screenshot
+
+! [desktop] (./ images / screenshot-desktop.jpg)
+! [mobile] (./ images / screenshot-mobile.jpg)
+
+
+### Links
+
+- Solution URL: [Add solution URL here] (https://github.com/uvapaza/cardmpstars.git)
+- Live site url: [Add live site url here] (https://uvapaza.github.io/cardmpstars/)
+
+## My process
+
+### Built with
+
+- HTML5 semantic markup
+- CSS custom properties
+- Flexible box
+- CSS grid
+
+### What I learned
+Even though I already had prior knowledge, there were things that were difficult for me because I had not used them for a long time.
+
+html
+<h1> An HTML code that I am proud of </h1>
+''
+css
+ .container{
+display: grid;
+width: 310px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+
+
+### Continuous development
+
+I lack a lot of experience so if you ask me what I want to improve I would say that everything more than everything css grid because the truth is I have used it very little
+
+### Helpful Resources
+
+- [youtube] (https://www.youtube.com/watch?v=iKdwZ91Q4L8&list=PL9T-KKyKXNCkoNtv_iK10LJhuuGCKWTcW&index=6) - This helped me a lot because I could remember how to use git every time I see it I learn something new that I can reuse in others stuff.
+
+## Author
+- Website - [uvapaza - Juan mena] (https://github.com/uvapaza)
